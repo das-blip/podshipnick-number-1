@@ -1,0 +1,8 @@
+/home/user/podshipnick3_0/build/CMakeFiles/task1.dir
+/home/user/podshipnick3_0/build/CMakeFiles/task2_webcam.dir
+/home/user/podshipnick3_0/build/CMakeFiles/task3_webcam.dir
+/home/user/podshipnick3_0/build/CMakeFiles/task4_webcam.dir
+/home/user/podshipnick3_0/build/CMakeFiles/task5_webcam.dir
+/home/user/podshipnick3_0/build/CMakeFiles/task6_webcam.dir
+/home/user/podshipnick3_0/build/CMakeFiles/edit_cache.dir
+/home/user/podshipnick3_0/build/CMakeFiles/rebuild_cache.dir
